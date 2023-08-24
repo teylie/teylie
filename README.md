@@ -3,6 +3,8 @@
 🌸 I'm an enthusiastic coder— who's just stepping into the captivating realm of programming.
 
      I'm ready to embark on new adventures and unravel the wonders that the programming universe holds ⭐ 
+     
+     I am currently studying as an undergraduate in Creative Computing, that covers areas, of programming, animation, design, and softwares.
 
 
 ## My safe space  📃☔☕
