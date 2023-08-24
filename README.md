@@ -2,8 +2,8 @@
 
 > Welcome to my serene corner where simplicity meets comfort. Here, we celebrate the art of sipping coffee, getting lost in a good book, and relishing the gentle embrace of raindrops. This repository is a reflection of cozy minimalism, where less is more and warmth is paramount.
 
- ### Who am i?:
- Hey, there, I'm Lyla, an enthusiastic coder who's just stepping into the captivating realm of programming. With a heart set on learning, I'm ready to embark on new adventures and unravel the wonders that the programming universe holds. Every challenge that crosses my path is a source of excitement, one that I can't wait to embrace.
+ ** About me: **
+I'm Lyla, an enthusiastic coder who's just stepping into the captivating realm of programming. With a heart set on learning, I'm ready to embark on new adventures and unravel the wonders that the programming universe holds. Every challenge that crosses my path is a source of excitement, one that I can't wait to embrace.
 
 ### What Awaits You In this tranquil haven, you'll find:
 
