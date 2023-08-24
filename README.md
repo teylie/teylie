@@ -1,6 +1,6 @@
 Coffee, Rain, and the Warmth of Words in Code 📃☔☕
 <div align="center">
-  <img src="https://your-image-url.com" alt="https://i.pinimg.com/originals/9b/d9/08/9bd9087d816361823821a233827b187f.gif">
+ 
 </div>
 About This Space
 
