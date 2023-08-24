@@ -3,17 +3,8 @@
 >🌸 I'm an enthusiastic coder stepping into the world of programming. 
     Ready to explore and uncover the wonders of coding ⭐
 
-#### 💗 My Goals 
-I aim to create my own games someday 😊
-
-I dream of traveling the world, gain new experiences
-
-Taking on big projects and having a great time doing so 💜
-
-And of course, continuous self-improvement and hard work are key 😸
-
 #### 🐋 My Current Path    
-Currently, I'm an undergraduate student studying Creative Computing. This covers programming, animation, design, and software.
+Currently, I'm an undergraduate student studying Creative Computing. This covers programming, animation, design, and more.
 
 
 #### 📃 My Cozy Space ☔☕
