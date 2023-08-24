@@ -1,13 +1,9 @@
-## welcome to my coffee coding haven  📃☔☕
-
-> Welcome to my serene corner where simplicity meets comfort. Here, I showcase, my coding projects whilst sipping some coffee, getting lost in a good book, and relishing the gentle embrace of raindrops. This space of mine is a reflection of my mind, embracing code with cozy minimalism, where less is more and warmth is paramount.
-
-
 # Hi~ — I am Lyla !  
 
 🌸 I'm an enthusiastic coder— who's just stepping into the captivating realm of programming.
 
      I'm ready to embark on new adventures and unravel the wonders that the programming universe holds ⭐ 
+
 
 ## 📚 My importants
 
@@ -22,6 +18,11 @@ And don't forget, improving myself and working hard 😸
 ## 🐋 My currents
 
 I am currently studying as an undergraduate in Creative Computing, that covers areas, of programming, and animation, design, and softwares.
+     
+
+## My safe space  📃☔☕
+
+> Welcome to my serene corner where simplicity meets comfort. Here, I showcase, my coding projects whilst sipping some coffee, getting lost in a good book, and relishing the gentle embrace of raindrops. This space of mine is a reflection of my mind, embracing code with cozy minimalism, where less is more and warmth is paramount.
 
 
 #### What you'll find:
