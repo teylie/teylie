@@ -4,6 +4,7 @@ Coffee, Rain, and the Warmth of Words in Code 📃☔☕
 </div>
 About This Space
 
+
 Welcome to a serene corner where simplicity meets comfort. Here, we celebrate the art of sipping coffee, getting lost in a good book, and relishing the gentle embrace of raindrops. This repository is a reflection of cozy minimalism, where less is more and warmth is paramount.
 
 What Awaits You
