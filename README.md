@@ -22,14 +22,12 @@ I am currently studying as an undergraduate in Creative Computing, that covers a
 
 ## My safe space  📃☔☕
 
-> This is my sacred corner, where simplicity meets comfort. Here, I showcase, my coding projects whilst sipping some coffee, getting lost in a good book, and relishing the gentle embrace of raindrops. This space of mine is a reflection of my mind, embracing code with cozy minimalism, where less is more and warmth is paramount.
+> Here, I code, sip some coffee, get lost in the words of books, and enjoy the gentle embrace of raindrops. This space is a reflection of my mind, embracing code with cozy minimalism
+
+#### What you'll find here:
+
+- ☕️ a collection of code snippets that are the digital equivalent of sipping a freshly brewed cup of coffee - short, delightful, and full of flavour.
+
+- 📖 Projects that mirror the joy of reading while raindrops dance on your window. Each project is a chapter of creativity, waiting to be explored.
 
 
-#### What you'll find:
-
-- ☕️ **Coffee Moments:** collection of code snippets that are the digital equivalent of sipping a freshly brewed cup of coffee - short, delightful, and full of flavour.
-
-- 📖 **Rainy Reads:** Projects that mirror the joy of reading while raindrops dance on your window. Each project is a chapter of creativity, waiting to be explored.
-
-
-In this space, errors are like the gentle patter of rain - they remind us of the beauty in imperfections. Embrace the serenity, learn from the moments, and let's continue crafting amidst the warmth of coffee, rain, and the written word.
