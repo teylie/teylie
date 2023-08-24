@@ -26,7 +26,7 @@ I am currently studying as an undergraduate in Creative Computing, that covers a
 
 #### What you'll find here:
 
-- ☕️ a collection of code snippets that are the digital equivalent of sipping a freshly brewed cup of coffee - short, delightful, and full of flavour.
+- ☕️ A collection of code snippets that are the digital equivalent of sipping a freshly brewed cup of coffee - short, delightful, and full of flavour.
 
 - 📖 Projects that mirror the joy of reading while raindrops dance on your window. Each project is a chapter of creativity, waiting to be explored.
 
