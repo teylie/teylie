@@ -4,29 +4,24 @@
 
      I'm ready to embark on new adventures and unravel the wonders that the programming universe holds ⭐ 
      
+Hello there, I'm Lyla! 🌸 I'm an enthusiastic coder stepping into the world of programming. Ready to explore and uncover the wonders of coding ⭐
 
-## 📚 My importants
+📚 My Goals
+I aim to create my own games someday 😊
 
-- I want to be able to make my own games in the future 😊
-  
-- I want to roam across the globe, absorb wisdom from diverse individuals scattered around the planet, and let their experiences ignite the spark of inspiration within me.
+I dream of traveling the world, learning from diverse individuals across the globe, and using their experiences to inspire my own creativity.
 
-- Working on big projects and having fun 💜
+I love taking on big projects and having a great time doing so 💜
 
-And don't forget, improving myself and working hard 😸
+And of course, continuous self-improvement and hard work are key 😸
 
+🐋 My Current Path
+Currently, I'm an undergraduate student studying Creative Computing. This covers programming, animation, design, and software.
 
-## 🐋 My currents
+My Cozy Space 📃☔☕
+In this space, I code, enjoy coffee, get lost in books, and savor the soothing sound of rain. This environment reflects my mind, embracing code with a minimalist touch.
 
-I am currently studying as an undergraduate in Creative Computing, that covers areas, of programming, animation, design, and softwares.
+What You'll Discover:
+☕️ A collection of code snippets, like enjoying a cup of freshly brewed coffee - short, delightful, and full of flavor.
 
-
-## My safe space  📃☔☕
-
-> Here, I code, sip some coffee, get lost in the words of books, and enjoy the gentle embrace of raindrops. This space is a reflection of my mind, embracing code with cozy minimalism
-
-#### What you'll find here:
-
-- ☕️ A collection of code snippets that are the digital equivalent of sipping a freshly brewed cup of coffee - short, delightful, and full of flavour.
-
-- 📖 Projects that mirror the joy of reading while raindrops dance on your window. Each project is a chapter of creativity, waiting to be explored.
+📖 Projects that capture the joy of reading while raindrops play on your window. Each project is a chapter of creativity, waiting to be explored.
