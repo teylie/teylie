@@ -22,4 +22,5 @@ In this space, I code, enjoy coffee, get lost in books, and savor the soothing s
 
 #### What You'll Discover:
 ☕️ A collection of code snippets, like enjoying a cup of freshly brewed coffee - short, delightful, and full of flavor.
+
 📖 Projects that capture the joy of reading while raindrops play on your window. Each project is a chapter of creativity, waiting to be explored.
