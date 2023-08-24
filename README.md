@@ -1,9 +1,8 @@
 Coffee, Rain, and the Warmth of Words in Code 📃☔☕
 <div align="center">
-  <img src="https://your-image-url.com" alt="Coffee and Rain Image">
+  <img src="https://your-image-url.com" alt="[Coffee and Rain Image](https://i.pinimg.com/originals/9b/d9/08/9bd9087d816361823821a233827b187f.gif)">
 </div>
 About This Space
-
 
 Welcome to a serene corner where simplicity meets comfort. Here, we celebrate the art of sipping coffee, getting lost in a good book, and relishing the gentle embrace of raindrops. This repository is a reflection of cozy minimalism, where less is more and warmth is paramount.
 
