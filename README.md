@@ -1,6 +1,6 @@
 # Hi~  I am Lyla !  
 
-🌸 I'm an enthusiastic coder stepping into the world of programming. 
+>🌸 I'm an enthusiastic coder stepping into the world of programming. 
     Ready to explore and uncover the wonders of coding ⭐
 
 #### 💗 My Goals 
