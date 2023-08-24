@@ -17,7 +17,7 @@ And don't forget, improving myself and working hard 😸
 
 ## 🐋 My currents
 
-I am currently studying as an undergraduate in Creative Computing, that covers areas, of programming, and animation, design, and softwares.
+I am currently studying as an undergraduate in Creative Computing, that covers areas, of programming, animation, design, and softwares.
      
 
 ## My safe space  📃☔☕
