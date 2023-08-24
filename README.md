@@ -1,17 +1,14 @@
 # Hi~  I am Lyla !  
 
-🌸 I'm an enthusiastic coder— who's just stepping into the captivating realm of programming.
-
-     I'm ready to embark on new adventures and unravel the wonders that the programming universe holds ⭐ 
-     
-Hello there, I'm Lyla! 🌸 I'm an enthusiastic coder stepping into the world of programming. Ready to explore and uncover the wonders of coding ⭐
+🌸 I'm an enthusiastic coder stepping into the world of programming. 
+    Ready to explore and uncover the wonders of coding ⭐
 
 📚 My Goals
 I aim to create my own games someday 😊
 
-I dream of traveling the world, learning from diverse individuals across the globe, and using their experiences to inspire my own creativity.
+I dream of traveling the world, gain new experiences
 
-I love taking on big projects and having a great time doing so 💜
+Taking on big projects and having a great time doing so 💜
 
 And of course, continuous self-improvement and hard work are key 😸
 
