@@ -1,4 +1,4 @@
-# Hi~ — I am Lyla !  
+# Hi~  I am Lyla !  
 
 🌸 I'm an enthusiastic coder— who's just stepping into the captivating realm of programming.
 
