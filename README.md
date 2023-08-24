@@ -5,10 +5,20 @@
      I'm ready to embark on new adventures and unravel the wonders that the programming universe holds ⭐ 
      
 
+## 📚 My importants
+
+- I want to be able to make my own games in the future 😊
+  
+- I want to roam across the globe, absorb wisdom from diverse individuals scattered around the planet, and let their experiences ignite the spark of inspiration within me.
+
+- Working on big projects and having fun 💜
+
+And don't forget, improving myself and working hard 😸
+
+
 ## 🐋 My currents
 
 I am currently studying as an undergraduate in Creative Computing, that covers areas, of programming, animation, design, and softwares.
-     
 
 
 ## My safe space  📃☔☕
@@ -20,17 +30,3 @@ I am currently studying as an undergraduate in Creative Computing, that covers a
 - ☕️ A collection of code snippets that are the digital equivalent of sipping a freshly brewed cup of coffee - short, delightful, and full of flavour.
 
 - 📖 Projects that mirror the joy of reading while raindrops dance on your window. Each project is a chapter of creativity, waiting to be explored.
-
-
-
-
-## 📚 My importants
-
-- I want to be able to make my own games in the future 😊
-  
-- I want to roam across the globe, absorb wisdom from diverse individuals scattered around the planet, and let their experiences ignite the spark of inspiration within me.
-
-- Working on big projects and having fun 💜
-
-And don't forget, improving myself and working hard 😸
-
