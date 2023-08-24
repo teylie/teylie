@@ -22,7 +22,7 @@ I am currently studying as an undergraduate in Creative Computing, that covers a
 
 ## My safe space  📃☔☕
 
-> Welcome to my serene corner where simplicity meets comfort. Here, I showcase, my coding projects whilst sipping some coffee, getting lost in a good book, and relishing the gentle embrace of raindrops. This space of mine is a reflection of my mind, embracing code with cozy minimalism, where less is more and warmth is paramount.
+> Here in my serene corner, is where simplicity meets comfort. Here, I showcase, my coding projects whilst sipping some coffee, getting lost in a good book, and relishing the gentle embrace of raindrops. This space of mine is a reflection of my mind, embracing code with cozy minimalism, where less is more and warmth is paramount.
 
 
 #### What you'll find:
