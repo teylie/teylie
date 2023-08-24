@@ -4,9 +4,6 @@
 
      I'm ready to embark on new adventures and unravel the wonders that the programming universe holds ⭐ 
      
-     I am currently studying as an undergraduate in Creative Computing, that covers areas, of programming, animation, design, and softwares.
-
-
 ## My safe space  📃☔☕
 
 > Here, I code, sip some coffee, get lost in the words of books, and enjoy the gentle embrace of raindrops. This space is a reflection of my mind, embracing code with cozy minimalism
@@ -17,6 +14,10 @@
 
 - 📖 Projects that mirror the joy of reading while raindrops dance on your window. Each project is a chapter of creativity, waiting to be explored.
 
+## 🐋 My currents
+
+I am currently studying as an undergraduate in Creative Computing, that covers areas, of programming, animation, design, and softwares.
+     
 
 ## 📚 My importants
 
@@ -27,12 +28,5 @@
 - Working on big projects and having fun 💜
 
 And don't forget, improving myself and working hard 😸
-
-## 🐋 My currents
-
-I am currently studying as an undergraduate in Creative Computing, that covers areas, of programming, animation, design, and softwares.
-     
-
-
 
 
