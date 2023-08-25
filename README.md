@@ -5,4 +5,4 @@
 >  As of now, I am studying Creative Computing Bsc, which covers areas of programming, animation, design, and more.
 >  Empowered by this knowledge, I can immerse myself deeper into my coding passions.
 #### 📃 My Cozy Space ☔☕
-I use Github as my safe space, to openely code, enjoy a cup of coffee, get lost in some good books.
+I use Github as my safe space, to openely code, enjoy a cup of coffee, and get lost in some good books.
