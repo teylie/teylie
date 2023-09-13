@@ -6,3 +6,4 @@
 >  Empowered by this knowledge, I aim to create projects in the future, that strengthen my desire for coding
 #### 📃 My Cozy Space ☔☕
 I use Github as my safe space, to openely code, enjoy a cup of coffee, and get lost in some good books.
+after all, every programmer is an author ♡
