@@ -5,7 +5,7 @@
 
 <div align="center">
     <p>As of now, I am studying Creative Computing Bsc, which covers areas of programming, animation, design, and more.</p>
-   Empowered by this knowledge, I aim to create projects in the future that strengthen my desire for coding.
+   <p>Empowered by this knowledge, I aim to create projects in the future that strengthen my desire for coding.<p>
 </div>
 
 #### 📃 My Cozy Space ☔☕
