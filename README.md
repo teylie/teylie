@@ -11,5 +11,5 @@ I use Github as my safe space, to openely code, enjoy a cup of coffee, explore b
 ![image|width=2](https://user-images.githubusercontent.com/74038190/240814242-2c79649a-b04c-4c78-998f-c126db48305c.png)
 ![image|width=10](https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif)
 
-![image|width=1](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
+
 ![image|width=2](https://user-images.githubusercontent.com/74038190/240903780-02d5a390-b263-43a4-981c-fbdc18c8b902.gif)
