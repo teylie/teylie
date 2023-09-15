@@ -3,11 +3,11 @@
 
 >🌸 I'm an enthusiastic beginner coder, ready to explore and uncover the wonders of coding ⭐
 
-As of now, I am studying Creative Computing Bsc, which covers areas of programming, <br>animation, design, and more.
-<br>
-<br>
-Empowered by this knowledge, I aim to create projects in the future that strengthen my desire for coding.
-<br>
+<div align="center">
+    <p>As of now, I am studying Creative Computing Bsc, which covers areas of programming, animation, design, and more.</p>
+   Empowered by this knowledge, I aim to create projects in the future that strengthen my desire for coding.
+</div>
+
 #### 📃 My Cozy Space ☔☕
 I use Github as my safe space, to openely code, enjoy a cup of coffee, explore books, and weave tales–
 <br>
