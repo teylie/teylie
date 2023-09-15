@@ -13,6 +13,10 @@ I use Github as my safe space, to openely code, enjoy a cup of coffee, explore b
 <br>
 developers are authors too. 💻📚
 <br><br>
-![image|width=100](https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif)
+
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif 
+</div>
+
 
 
