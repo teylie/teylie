@@ -10,8 +10,9 @@ Empowered by this knowledge, I aim to create projects in the future that strengt
 <br>
 #### 📃 My Cozy Space ☔☕
 I use Github as my safe space, to openely code, enjoy a cup of coffee, explore books, and weave tales–
+<br>
 developers are authors too. 💻📚
 <br><br>
-![image|width=175](https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif)
+![image|width=100](https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif)
 
 
