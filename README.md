@@ -13,7 +13,7 @@ I use Github as my safe space, to openely code, enjoy a cup of coffee, explore b
 developers are authors too. 💻📚
 <br><br>
  
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 
 
 
