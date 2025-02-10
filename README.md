@@ -3,7 +3,7 @@
 
 >🌸 I'm an enthusiastic beginner coder, ready to explore and uncover the wonders of coding ⭐
 
->As of now, I am studying Creative Computing Bsc, which covers areas of programming, animation, design, and more.</p>
+>As of now, I am studying Creative Computing Bsc, which covers areas of programming, animation, design, and more. As well, as undergoing a year internship as a game designer.</p>
    <p>Empowered by this knowledge, I aim to create projects in the future that strengthen my desire for coding.<p>
 
 
